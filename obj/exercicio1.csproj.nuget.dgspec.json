@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\SUPORTE03\\Desktop\\projetos\\exercicio1\\exercicio1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\SUPORTE03\\Desktop\\projetos\\exercicio1\\exercicio1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SUPORTE03\\Desktop\\projetos\\exercicio1\\exercicio1.csproj",
+        "projectName": "exercicio1",
+        "projectPath": "C:\\Users\\SUPORTE03\\Desktop\\projetos\\exercicio1\\exercicio1.csproj",
+        "packagesPath": "C:\\Users\\SUPORTE03\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SUPORTE03\\Desktop\\projetos\\exercicio1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\SUPORTE03\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
